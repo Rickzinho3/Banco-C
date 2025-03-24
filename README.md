@@ -10,3 +10,9 @@
 <hr/>
 
 ### O projeto conta com um sistema bancário semelhante ao outro presente aqui no perfil. Porém, conta com um sistema de verificação de usuário, no qual é armazenado localmente em um arquivo .txt.
+
+> Para usar este repositório
+
+```bash
+git clone https://github.com/Rickzinho3/Banco-C.git
+```
